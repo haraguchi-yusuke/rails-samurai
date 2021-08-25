@@ -1,0 +1,7 @@
+{
+  "name": "kakeibo",
+  "private": true,
+  "dependencies": {
+    "heroku": "^7.59.0"
+  }
+}
